@@ -1,0 +1,10 @@
+#EXTM3U url-tvg=""
+
+#################################################
+#EXTINF:-1 group-title="BR Rede Globo",BR:-----|Rede Globo|---------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Curitiba FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Curitiba FHD
+http://supersonictv.live:8080/812493/376688/85013
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Foz do Iguaçu FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Foz do Iguaçu FHD
+http://supersonictv.live:8080/812493/376688/85014
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Maringa FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Maringa FHD
+http://supersonictv.live:8080/812493/376688/85199
